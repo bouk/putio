@@ -1,0 +1,10 @@
+{
+  "id": "io.put",
+  "version": "1.0.0",
+  "vendor": "put.io",
+  "type": "web",
+  "main": "index.html",
+  "title": "put.io",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
